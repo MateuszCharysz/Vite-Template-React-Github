@@ -1,2 +1,2 @@
-# Vite-template-github
- Vite template for React
+# Vite-template-React-github
+ Vite template for React with deployment.
